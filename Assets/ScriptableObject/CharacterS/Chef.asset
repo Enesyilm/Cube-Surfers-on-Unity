@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f13f836d5dbd2084eb710f2ab7b0740e, type: 3}
+  m_Name: Chef
+  m_EditorClassIdentifier: 
+  characterModel: {fileID: 8227969352542736552, guid: f7ab225c85c345743abd0c82f0054ee6,
+    type: 3}
+  characterName: Chef
+  price: 10
+  isLocked: 1
